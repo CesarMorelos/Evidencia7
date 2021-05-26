@@ -1,0 +1,108 @@
+{"frames": {
+
+"CS_correcta_1":
+{
+	"frame": {"x":625,"y":1,"w":169,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":169},
+	"sourceSize": {"w":169,"h":169}
+},
+"CS_correcta_2":
+{
+	"frame": {"x":1,"y":1,"w":244,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":218},
+	"sourceSize": {"w":244,"h":218}
+},
+"CS_correcta_3":
+{
+	"frame": {"x":1,"y":420,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_correcta_4":
+{
+	"frame": {"x":190,"y":420,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_correcta_5":
+{
+	"frame": {"x":247,"y":1,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_correcta_6":
+{
+	"frame": {"x":227,"y":221,"w":190,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":172},
+	"sourceSize": {"w":190,"h":172}
+},
+"CS_incorrecta_1":
+{
+	"frame": {"x":1,"y":221,"w":224,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":197},
+	"sourceSize": {"w":224,"h":197}
+},
+"CS_incorrecta_2":
+{
+	"frame": {"x":379,"y":395,"w":170,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":171},
+	"sourceSize": {"w":170,"h":171}
+},
+"CS_incorrecta_3":
+{
+	"frame": {"x":419,"y":172,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_incorrecta_4":
+{
+	"frame": {"x":436,"y":1,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_incorrecta_5":
+{
+	"frame": {"x":608,"y":172,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+},
+"CS_incorrecta_6":
+{
+	"frame": {"x":551,"y":343,"w":187,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":169},
+	"sourceSize": {"w":187,"h":169}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "caritas.png",
+	"format": "RGBA8888",
+	"size": {"w":796,"h":590},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:732a359272ac69686cc9a439c18c121f:0240685b9b15f52c692325b505ceee4b:25979a58864507b8b5c56e24ac27a542$"
+}
+}
